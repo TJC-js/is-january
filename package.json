@@ -41,6 +41,7 @@
     }
   },
   "dependencies": {
-    "is-a-date": "^1.0.1"
+    "is-a-date": "^1.0.1",
+    "month-enum": "^1.0.1"
   }
 }

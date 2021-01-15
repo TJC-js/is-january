@@ -1,6 +1,6 @@
 # is-january [![NPM version](https://img.shields.io/npm/v/is-january.svg?style=flat)](https://www.npmjs.com/package/is-january) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-january.svg?style=flat)](https://npmjs.org/package/is-january) [![NPM total downloads](https://img.shields.io/npm/dt/is-january.svg?style=flat)](https://npmjs.org/package/is-january) [![Linux Build Status](https://img.shields.io/travis/TJC-js/is-january.svg?style=flat&label=Travis)](https://travis-ci.org/TJC-js/is-january) 
 
-> returns a 'true' boolean if value is date
+> returns a 'true' boolean if date is january
 
 Please consider following this project's author, [Tim Cane](https://github.com/timcane), and consider starring the project to show your :heart: and support.
 
