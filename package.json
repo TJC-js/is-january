@@ -1,0 +1,46 @@
+{
+  "name": "is-january",
+  "description": "returns a 'true' boolean if date is january",
+  "version": "1.0.1",
+  "homepage": "https://github.com/TJC-js/is-january",
+  "author": "Tim Cane (https://github.com/timcane)",
+  "contributors": [
+    "Tim Cane (https://github.com/timcane)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJC-js/is-january.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TJC-js/is-january/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "is-january",
+    "date"
+  ],
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "related": {},
+    "lint": {
+      "reflinks": false
+    }
+  },
+  "dependencies": {
+    "is-a-date": "^1.0.1"
+  }
+}
